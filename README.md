@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Musab👋
 
-I'm Musab, a software engineering student at Universiti Teknologi Malaysia (UTM), I'm enthausist about the new technologies, specially AI and ML.
+A software engineering student at Universiti Teknologi Malaysia (UTM), I'm enthausist about the new technologies, specially AI and ML.
 I’m currently learning Full-Stack development, also I'm enrolled at AWS scholarship for AI and ML.
 
 How to reach me:
